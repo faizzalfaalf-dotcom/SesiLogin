@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sesi Login</string>
+
+    <!-- layar login -->
+    <string name="judul_masuk">Masuk ke Akun</string>
+    <string name="sub_judul_masuk">Silakan isi email dan sandi Anda</string>
+    <string name="hint_email">nama@email.com</string>
+    <string name="hint_sandi">Sandi</string>
+    <string name="label_ingat_saya">Ingat saya</string>
+    <string name="btn_masuk">Masuk</string>
+    <string name="info_akun_demo">Akun demo: rani@example.com / 123456</string>
+    <string name="desc_logo">Logo aplikasi</string>
+
+    <!-- pesan kesalahan -->
+    <string name="pesan_email_kosong">Email tidak boleh kosong</string>
+    <string name="pesan_sandi_pendek">Sandi minimal 6 karakter</string>
+    <string name="pesan_login_gagal">Email atau sandi salah</string>
+
+    <!-- layar dashboard -->
+    <string name="badge_sesi_aktif">Sesi aktif</string>
+    <string name="label_terakhir_masuk">Terakhir masuk</string>
+    <string name="btn_keluar">Keluar</string>
+    <string name="desc_avatar">Foto profil pengguna</string>
+</resources>
